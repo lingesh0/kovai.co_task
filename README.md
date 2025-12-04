@@ -2,6 +2,17 @@
 ### A 7-Year Time-Series Analysis and 7-Day Forecasting Report
 
 ---
+Key Insights (Short & Crisp)
+
+1) Pandemic Effect: Ridership dropped sharply in 2020–2021 due to COVID-19 and began a steady recovery from 2022 onward, though not all services returned to pre-pandemic levels.
+
+2) Dominant Services: Rapid Route and Local Route consistently have the highest daily ridership and the largest fluctuations, making them the core demand drivers; Light Rail is also a major contributor.
+
+3) Weekly Seasonality: Strong weekday usage and significant weekend drops are observed across all services, with School services showing almost exclusive weekday demand.
+
+4) Service Variability: Rapid Route and Local Route show high daily variance, requiring dynamic operational planning, while Peak Service and Other remain low-volume and stable.
+
+5) Correlation Patterns: Most major services are strongly correlated (>0.85), indicating shared commuter-driven behaviour, while the Other category shows weak correlations and more independent usage patterns.
 
 ## 1. Key Insights from Exploratory Data Analysis
 
