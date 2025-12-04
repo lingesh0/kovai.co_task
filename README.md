@@ -135,7 +135,7 @@ SARIMA Model Summary:
 
 
 
-Model Evaluation – Rapid Route (Short & Clear)
+Model Evaluation – Rapid Route
 
 Performance Metrics:
 
