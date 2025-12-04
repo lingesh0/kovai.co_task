@@ -135,20 +135,28 @@ SARIMA Model Summary:
 
 
 
-Model Evaluation for Rapid Route
-----------------------------------
-MAE : 10513.425283130899
-RMSE: 12909.164419328721
-MAPE: inf
-R2 Score: -1.0909333894557163
+Model Evaluation – Rapid Route (Short & Clear)
 
-Next 7-Day Forecast:
-2024-09-16    17451.501075
-2024-09-17    19756.568707
-2024-09-18    19483.827578
-2024-09-19    19040.793163
-2024-09-20    17979.695387
-2024-09-21     8997.790803
-2024-09-22     7306.646340
+Performance Metrics:
 
+MAE: 10,513
+
+RMSE: 12,909
+
+MAPE: Infinite (due to zero or near-zero actual values in test period)
+
+R² Score: –1.09
+
+Interpretation:
+The model captures the overall weekly pattern but struggles with day-to-day fluctuations, resulting in high error values and a negative R² score. MAPE becomes infinite when the actual test values include zeros, making percentage error undefined.
+
+Next 7-Day Forecast – Rapid Route
+Date	Forecasted Passengers
+2024-09-16	17,451
+2024-09-17	19,756
+2024-09-18	19,483
+2024-09-19	19,040
+2024-09-20	17,979
+2024-09-21	8,997
+2024-09-22	7,306
 
