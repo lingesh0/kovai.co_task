@@ -1,5 +1,5 @@
 # Public Transport Ridership Analysis & SARIMA Forecasting  
-### A 7-Year Time-Series Analysis and 7-Day Forecasting Report
+### A) 7-Year Time-Series Analysis and 7-Day Forecasting Report
 
 ---
 Key Insights 
@@ -150,13 +150,13 @@ R² Score: –1.09
 Interpretation:
 The model captures the overall weekly pattern but struggles with day-to-day fluctuations, resulting in high error values and a negative R² score. MAPE becomes infinite when the actual test values include zeros, making percentage error undefined.
 
-Next 7-Day Forecast – Rapid Route
-Date	Forecasted Passengers
-2024-09-16	17,451
-2024-09-17	19,756
-2024-09-18	19,483
-2024-09-19	19,040
-2024-09-20	17,979
-2024-09-21	8,997
-2024-09-22	7,306
+| Date       | Forecasted Passengers |
+| ---------- | --------------------- |
+| 2024-09-16 | 17,451                |
+| 2024-09-17 | 19,756                |
+| 2024-09-18 | 19,483                |
+| 2024-09-19 | 19,040                |
+| 2024-09-20 | 17,979                |
+| 2024-09-21 | 8,997                 |
+| 2024-09-22 | 7,306                 |
 
