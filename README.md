@@ -2,7 +2,7 @@
 ### A 7-Year Time-Series Analysis and 7-Day Forecasting Report
 
 ---
-Key Insights (Short & Crisp)
+Key Insights 
 
 1) Pandemic Effect: Ridership dropped sharply in 2020–2021 due to COVID-19 and began a steady recovery from 2022 onward, though not all services returned to pre-pandemic levels.
 
